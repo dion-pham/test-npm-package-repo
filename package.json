@@ -1,0 +1,30 @@
+{
+  "name": "@dionpham/my-scoped-package",
+  "version": "1.0.0",
+  "description": "A lightweight logger that prints color-coded messages to the console — perfect for CLI tools and Node.js scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "console output",
+    "node logging",
+    "debugging",
+    "npm package",
+    "scoped package"
+  ],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/dion-pham/test-npm-package-repo.git"
+  },
+  "homepage": "https://https://github.com/dion-pham/test-npm-package-repo#readme",
+  "bugs": {
+    "url": "https://https://github.com/dion-pham/test-npm-package-repo/issues"
+  }
+}
