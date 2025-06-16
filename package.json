@@ -1,6 +1,6 @@
 {
   "name": "@dionpham/my-scoped-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight logger that prints color-coded messages to the console — perfect for CLI tools and Node.js scripts.",
   "main": "index.js",
   "scripts": {
